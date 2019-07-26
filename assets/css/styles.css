@@ -1,0 +1,74 @@
+.nav-wrapper{
+  margin-left: 13%;
+  width: 80%;
+  display:inline;
+}
+
+.nav-bottom{
+  box-shadow: -17px -21px 103px -16px;
+  padding: 17px;
+}
+
+.pop-logo{
+  position: absolute;
+  margin-top: 3%;
+  z-index: 99;
+  width: 13%;
+}
+
+.us{
+  background-color: #ff49f7b3;
+  padding: 35px;
+}
+
+.us h1{
+  font-size: 4rem;
+  text-align: left;
+  font-family: Suravaram;
+  font-style: italic;
+  font-style: italic;
+  margin-left: 14%;
+}
+
+.us h1 span{
+  padding-left: 30px;
+}
+
+.profile{
+  text-align: center;
+}
+
+.header-images{
+  background-attachment: fixed;
+  background-image: url('../images/image3.jpg');
+  height: 100vh;
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.scroll{
+  width: 57px;
+  z-index: 55;
+  position: fixed;
+  margin-top: 28vh;
+  background-color: #fe0fff;
+  margin-left: 8%;
+  border-radius: 50%;
+  height: 52px;
+  right: 25px;
+  bottom: 25px;
+}
+
+#extendersNav{
+  float: right;
+}
+
+#contact{
+  min-height: 20px;
+  background-color:#4a4646;
+}
